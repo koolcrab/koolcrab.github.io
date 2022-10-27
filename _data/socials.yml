@@ -1,7 +1,7 @@
 [
   {
     name: GitHub,
-    text: nicolasmaclean,
+    text: ZachDenlar,
     link: /github/,
     icon: "fa fa-github-square",
   },
@@ -13,7 +13,7 @@
   },
   {
     name: LinkedIn,
-    text: nick-maclean,
+    text: Zach-Denlar,
     link: /linkedin/,
     icon: "fa fa-linkedin-square",
   }
